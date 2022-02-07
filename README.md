@@ -1,19 +1,4 @@
 # insta-clone
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+clone do instagram pra testar o vue cli
+provavelmente, quero alimentar com back no firebase ou um flask ou Restful
